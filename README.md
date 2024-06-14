@@ -6,10 +6,10 @@
 
 ### Subir mis cambios a Github 
 
-  ``` git add . ```
-  ``` git commit -m "[ADD], [IMP] , [FIX] , se debe de utilizar cualquiera de estos tres, segun el trabajo que hayan hecho. ```
-  ``` git push -u origin main ```
-
-### Bajarse los cambios de los demas
+  ``` git add . ``` <br/>
+  ``` git commit -m "[ADD], [IMP] , [FIX] , se debe de utilizar cualquiera de estos tres, segun el trabajo que hayan hecho. ``` <br/>
+  ``` git push -u origin main ``` <br/>
+<br/>
+### Bajarse los cambios de los demas <br/>
 
    ``` git pull origin main ```
